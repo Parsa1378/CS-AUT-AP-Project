@@ -28,7 +28,7 @@ Including:
 2. Categoey and Search : List of Categories and option to sort products by cheapest or expensivest and they can search the product by name and filter it by category.
 3. My Account : Customer's info. They can edit their inforamtion and also they can change password.
 ### Admin :
-On main page admin can choose too see all users and their info, total amount of products, top seller, login count of every user and edit the pinned products.
+On main page admin can choose to see all users and their info, total amount of products, top seller, login count of every user and edit the pinned products.
 
 ## Creators:
 * [Parsa Poorsistani](https://github.com/Parsa1378)
